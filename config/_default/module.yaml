@@ -1,0 +1,10 @@
+############################
+## HUGO MODULES
+## Install or uninstall themes and plugins here.
+## Docs: https://gohugo.io/hugo-modules/
+############################
+
+imports:
+  - path: github.com/truongnn/hugo-blox/modules/blox-plugin-decap-cms
+  - path: github.com/truongnn/hugo-blox/modules/blox-plugin-netlify
+  - path: github.com/truongnn/hugo-blox/modules/blox-bootstrap
