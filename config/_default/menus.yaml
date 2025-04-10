@@ -6,6 +6,9 @@
 main:
   - name: News
     url: post
+    weight: 10
+  - name: Orientation
+    url: orientation
     weight: 20
   - name: Publications
     url: publication
