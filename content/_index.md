@@ -9,10 +9,10 @@ sections:
     content:
       title: Intelligent Edge Computing Research Group
       image:
-        filename: welcome.jpg
+        filename: welcome.jpeg
       text: |
         <br>
-        We are an active research group at the University of Information Technology. Our aim is to blends theory and system research focusing on developing Secure and Intelligent Services for IoT underlying several AI or Machine Learning methods, and their applications to industrial domains, such as the IT infrastructure industries and Smart City.
+        The Intelligent Edge Research Group, led by Dr. Kim-Hung Le at the University of Information Technology (UIT), VNU-HCM, blends theory and system research to pioneer advancements in Edge AI and AI Security. Our work in Edge AI focuses on empowering on-device intelligence for resource-constrained systems like UAVs and robotics, innovating techniques such as model optimization and federated learning to maximize edge performance, and developing resource-efficient LLMs/SLMs and autonomous agents for edge deployment. In AI Security, we are building next-generation AI-powered cyber defenses (IDS/IPS), enhancing the trustworthiness and adversarial resilience of AI models, and pioneering security frameworks for the quantum era.
   
   - block: collection
     content:

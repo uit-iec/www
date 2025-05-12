@@ -9,49 +9,35 @@ sections:
       title: Research Orientation
       text: |
         <br>
-        Our research group focuses on several key areas that intersect theory and application. We aim to address real-world challenges using secure and intelligent technologies.
+        We are advancing next-generation research at the intersection of **Edge Intelligence** and **AI Security**, aiming to build **efficient**, **autonomous**, and **trustworthy** AI systems for real-world deployment.  
+        <br><br>
+        🔹 **Edge AI**:  
+        - 🤖 On-device intelligence for UAVs, robots, and IoT systems  
+        - 🧠 Lightweight models via architecture design, distillation, and federated learning  
+        - 🛰️ Deployable LLMs and autonomous AI agents for edge environments  
+        <br>
+        🔹 **AI Security**:  
+        - 🛡️ AI-enhanced Intrusion Detection and Prevention Systems (IDS/IPS)  
+        - 🔐 Robustness against adversarial threats and model exploitation  
+        - ⚛️ Security strategies for the quantum-AI future  
 
   - block: markdown
-    id: section-1
+    id: edge-ai
     content:
-      title: Artificial Intelligence & Machine Learning
-      subtitle: Building intelligent systems with real-world impact.
+      title: Edge AI
+      subtitle: Intelligent computation at the edge.
       text: |
-        We explore supervised and unsupervised learning, deep neural networks, reinforcement learning, and responsible AI. Our research applies these methods to domains such as health, education, and infrastructure.
+        - **Empowering On-Device Intelligence**: Engineering intelligent systems for resource-constrained devices such as UAVs and robotics in IoT environments.
+        - **Maximizing AI Performance on the Edge**: Innovating cutting-edge techniques in model architecture, knowledge distillation, and federated learning to unlock peak AI performance.
+        - **Pioneering LLM and Agentic AI for the Edge**: Developing resource-efficient LLMs/SLMs and autonomous AI agents deployable on edge devices.
 
   - block: markdown
-    id: section-2
+    id: ai-security
     content:
-      title: Cybersecurity & DevSecOps
-      subtitle: Securing systems from design to deployment.
+      title: AI Security
+      subtitle: Building resilient and trustworthy AI systems.
       text: |
-        We focus on threat detection (IDS/IPS), secure CI/CD pipelines, vulnerability management, and integrating security early in software development lifecycles.
-
-  - block: markdown
-    id: section-3
-    content:
-      title: Internet of Things (IoT)
-      subtitle: Distributed intelligence at the edge.
-      text: |
-        Our IoT research involves edge computing, federated learning, energy-efficient protocols, and securing smart devices in dynamic environments.
-
-  - block: markdown
-    id: section-4
-    content:
-      title: Quantum Machine Learning
-      subtitle: Computing at the edge of possibility.
-      text: |
-        Investigating quantum circuits, hybrid quantum-classical models, angle encoding, and their applications in learning tasks. We aim to understand and push the boundary of what’s possible in intelligent systems.
-
-  - block: hero
-    content:
-      title: Smart City & Infrastructure
-      subtitle: AI-driven urban intelligence.
-      text: |
-        We apply our technologies to smart transportation, public safety, energy efficiency, and predictive maintenance, collaborating with public and private sectors.
-      image:
-        filename: smartcity.jpg
-        alt: Smart City Visualization
-      align: left
+        - **Building AI-Powered Cyber Defenses**: Creating next-generation intelligent Intrusion Detection/Prevention Systems (IDS/IPS) leveraging advanced supervised, unsupervised, and hybrid AI models.
+        - **Enhancing Trustworthiness of AI-Based Applications**: Leading research on innovative techniques for AI model protection and adversarial attack resilience.
+        - **Pioneering Security for the Quantum Era**: Investigating and developing security frameworks for AI models addressing threats unique to quantum-enhanced or quantum-native AI.
 ---
-
