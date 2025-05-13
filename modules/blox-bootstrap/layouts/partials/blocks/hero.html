@@ -16,9 +16,9 @@
       <h1 class="hero-title">{{ . | markdownify }}</h1>
     {{ end }}
 
-    {{ with $block.content.text }}
+    <!-- {{ with $block.content.text }}
       <div class="hero-lead">{{ . | $page.RenderString | emojify }}</div>
-    {{ end }}
+    {{ end }} -->
 
     {{/* Call-to-action link */}}
     {{ if $block.content.cta.url }}
@@ -88,5 +88,10 @@
       {{ end }}
     {{ end }}
   </div>
+</div>
+<div class="row">
+  {{ with $block.content.text }}
+      <div class="hero-lead">{{ . | $page.RenderString | emojify }}</div>
+    {{ end }}
 </div>
 {{ end }}
