@@ -41,7 +41,7 @@ sections:
         align: center
         background:
           image:
-            filename: slides/20240329_103140.jpg
+            filename: slides/20220906_113348.jpg
             filters:
               brightness: 0.7
           position: right
@@ -51,7 +51,7 @@ sections:
         align: left
         background:
           image:
-            filename: slides/20240510_104337.jpg
+            filename: slides/20241223_124535.jpg
             filters:
               brightness: 0.7
           position: center
@@ -61,7 +61,7 @@ sections:
         align: right
         background:
           image:
-            filename: slides/20241216_140546.jpg
+            filename: slides/IMG_3748.jpg
             filters:
               brightness: 0.5
           position: center
