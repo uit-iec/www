@@ -31,9 +31,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:trungsanglong@gmail.com'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Trunkg0d
 
 email: ''
 # Highlight the author in author lists? (true/false)

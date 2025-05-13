@@ -31,9 +31,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:2k1.nguyenngoctruong@gmail.com'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ntruongn
 
 email: ''
 # Highlight the author in author lists? (true/false)

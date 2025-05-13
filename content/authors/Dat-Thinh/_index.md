@@ -37,9 +37,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=G1ED2V4AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/datthinh1801
 
 email: ''
 # Highlight the author in author lists? (true/false)

@@ -34,9 +34,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ytvn@uit.edu.vn'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ytvn
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
