@@ -1,5 +1,5 @@
 ---
 title: "Gallery"
-layout: gallery
+type: book
 ---
 {{< gallery dir="." >}}
