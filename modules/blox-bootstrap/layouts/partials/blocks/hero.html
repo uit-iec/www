@@ -9,7 +9,7 @@
 
 {{ if $block.content.image.filename }}
 <div class="row align-items-center">
-  <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-start">
+  <div class="col-12 col-md-8 d-flex justify-content-center justify-content-md-start">
 {{ end }}
 
     {{ with $block.content.title }}
@@ -63,7 +63,7 @@
   {{/* Hero image */}}
   {{ if $block.content.image.filename }}
   </div>
-  <div class="col-12 mx-auto col-md-6 {{if $block.content.design.flip}}order-md-first{{end}} hero-media">
+  <div class="col-12 mx-auto col-md-4 {{if $block.content.design.flip}}order-md-first{{end}} hero-media">
     {{- $image := resources.Get (path.Join "media" $block.content.image.filename) -}}
     {{ if $image }}
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
