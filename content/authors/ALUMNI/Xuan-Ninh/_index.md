@@ -3,7 +3,7 @@ title: Xuan-Ninh Ho
 first_name: Xuan-Ninh
 last_name: Ho
 
-superuser: false
+superuser: true
 
 role:  Security Engineer (Zalora Group)/Vulnerability Researcher (QSEC)
 

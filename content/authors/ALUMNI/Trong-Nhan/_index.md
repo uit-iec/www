@@ -3,7 +3,7 @@ title: Trong-Nhan Phan
 first_name: Trong-Nhan
 last_name: Phan
 
-superuser: false
+superuser: true
 
 role: Quantitative Research at WorldQuant
 
