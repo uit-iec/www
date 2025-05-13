@@ -5,7 +5,7 @@ last_name: Tran
 
 superuser: true
 
-role:  PhD student at the University of Illinois
+role:  PhD student at the University of Illinois (USA)
 
 organizations:
   - name: University of Illinois
