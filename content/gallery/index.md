@@ -1,5 +1,5 @@
 ---
 title: "Gallery"
-type: book
+type: landing
 ---
 {{< gallery dir="." >}}
