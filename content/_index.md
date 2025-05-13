@@ -30,38 +30,38 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: compact
       columns: '1'
   
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 
+        content: 
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: slides/20240329_103140.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 
+        content: 
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: slides/20240510_104337.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 
+        content: 
         align: right
         background:
           image:
-            filename: welcome.jpeg
+            filename: slides/20241216_140546.jpg
             filters:
               brightness: 0.5
           position: center
@@ -82,7 +82,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
       count: 5
       filters:
