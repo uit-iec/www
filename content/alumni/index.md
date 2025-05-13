@@ -9,6 +9,8 @@ sections:
     content:
       title: Alumni
       subtitle: Staying Connected Beyond Graduation
+    design:
+      padding: 10px
   - block: people
     content:
       user_groups:
