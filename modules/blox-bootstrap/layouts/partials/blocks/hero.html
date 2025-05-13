@@ -84,15 +84,17 @@
         {{ end }}
         {{ $img_src_set = delimit $img_src_set "," }}
 
-  {{ with $block.content.text }}
+      {{ with $block.content.text }}
         <img src="{{ $legacy_img.RelPermalink }}" srcset="{{ $img_src_set }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $block.Title }}" style="max-width:400px; max-height:400px;">
+      {{ end }}
       {{ end }}
     {{ end }}
   </div>
 </div>
 <div class="row">
   {{ with $block.content.text }}
-      <div >{{ . | $page.RenderString | emojify }}</div>
-    {{ end }}
+    <div>{{ . | $page.RenderString | emojify }}</div>
+  {{ end }}
 </div>
+{{ end }}
 {{ end }}
