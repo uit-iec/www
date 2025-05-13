@@ -6,7 +6,7 @@ name = "IECResearch"
   primary = "#1565c0"
 
   # Menu
-  menu_primary = "#103157"
+  menu_primary = "#009ed8"
   menu_text = "#fff"
   menu_text_active = "#fff"
   menu_title = "#fff"
