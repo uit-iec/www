@@ -5,6 +5,10 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: Alumni
+      subtitle: Staying Connected Beyond Graduation
   - block: people
     content:
       user_groups:
