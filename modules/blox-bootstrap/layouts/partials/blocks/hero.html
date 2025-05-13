@@ -8,8 +8,8 @@
 {{ $bg := $block.design.background }}
 
 {{ if $block.content.image.filename }}
-<div class="row">
-  <div class="col-12 col-md-6 text-center text-md-left">
+<div class="row align-items-center">
+  <div class="col-12 col-md-6 d-flex justify-content-center justify-content-md-start">
 {{ end }}
 
     {{ with $block.content.title }}
@@ -84,7 +84,7 @@
         {{ end }}
         {{ $img_src_set = delimit $img_src_set "," }}
 
-        <img src="{{ $legacy_img.RelPermalink }}" srcset="{{ $img_src_set }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $block.Title }}">
+        <img src="{{ $legacy_img.RelPermalink }}" srcset="{{ $img_src_set }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $block.Title }}"  style="max-width:400px; max-height:400px;">
       {{ end }}
     {{ end }}
   </div>
