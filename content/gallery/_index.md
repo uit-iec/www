@@ -1,9 +1,18 @@
 ---
-title: "Gallery"
-layout: gallery
-date: 2025-05-13
-type: widget_page
+title: "Photo Gallery"
+subtitle: "Một số hình ảnh ý nghĩa"
+date: 2023-01-01
+widget: gallery
+design:
+  columns: "3"
+  spacing: "small"
+image:
+  preview_only: false
+content:
+  - image: "image1.jpg"
+    caption: "Chú thích ảnh 1"
+  - image: "image2.jpg"
+    caption: "Chú thích ảnh 2"
+  - image: "image3.jpg"
+    caption: "Chú thích ảnh 3"
 ---
-
-# Optional intro
-Welcome to our gallery! Here are some of our memorable moments.
