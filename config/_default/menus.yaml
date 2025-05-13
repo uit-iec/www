@@ -16,6 +16,9 @@ main:
   - name: Members
     url: people
     weight: 40
+  - name: Gallery
+    url: gallery
+    weight: 45
   - name: Contact
     url: contact
     weight: 50

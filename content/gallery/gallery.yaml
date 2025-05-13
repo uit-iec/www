@@ -1,0 +1,12 @@
+widget: gallery
+headless: true
+design:
+  columns: 3
+  spacing: 20
+items:
+  - image: /media/gallery/20221231_165453.jpg
+    caption: "Caption for Image 1"
+  - image: /media/gallery/20220906_113348.jpg
+    caption: "Caption for Image 2"
+  - image: /media/gallery/20221120_173129.jpg
+    caption: "Caption for Image 3"
