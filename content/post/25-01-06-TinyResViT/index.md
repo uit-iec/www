@@ -2,9 +2,9 @@
 title: Institute Researcher Contributes to Publication in Prestigious "Internet of Things" Journal
 date: 2025-01-06
 image:
-    - focal_point: 'top'
-authors: 
-    - Administrator
+  focal_point: 'top'
+authors:
+  - Administrator
 ---
 A significant contribution to the field of agricultural technology and artificial intelligence has been made with the recent publication of a new research paper in the esteemed international journal, "Internet of Things." We extend our warmest congratulations to all authors involved in this important work. The paper, titled "TinyResViT: A lightweight hybrid deep learning model for on-device corn leaf disease detection," is scheduled for publication in March 2025.
 
