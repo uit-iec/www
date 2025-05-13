@@ -2,7 +2,7 @@
 title: 'Thesis-supervised students'
 authors:
   - Khanh-An Le-Minh
-publishDate: '2025-04-01T00:00:00Z'
+publishDate: '2020-04-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
