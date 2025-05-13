@@ -58,6 +58,26 @@ sections:
           color: '#555'
       - title: 
         content: 
+        align: left
+        background:
+          image:
+            filename: slides/slide2.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: 
+        content: 
+        align: left
+        background:
+          image:
+            filename: slides/slide3.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: 
+        content: 
         align: right
         background:
           image:
